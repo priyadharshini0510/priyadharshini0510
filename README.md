@@ -18,8 +18,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 B.E. Computer Science and Engineering — Agni College of Technology (CGPA: 8.4)
-- 🎓 Pursuing MBA – Human Resource Management — Meenakshi Academy of Higher Education and Research (CGPA: 8.6)
-- 💼 Full Stack Engineer Intern at **CoApps**, building REST APIs and full-stack apps with Java, Spring Boot & MySQL
+- 🎓 MBA – Human Resource Management — Meenakshi Academy of Higher Education and Research (CGPA: 8.6)
+- 💼 Full Stack Engineer Intern at **Coapps Development Solutions Private Limited**, building REST APIs and full-stack apps with Java, Spring Boot & MySQL
 - 🌐 Former Web Development Intern at **The Sparks Foundation**
 - 🔍 Built a real-time **Driver Drowsiness Detection System** using OpenCV & Keras
 - 📊 Conducted an **Employee Retention Analysis** using SPSS, bridging tech and HR analytics
