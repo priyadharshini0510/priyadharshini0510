@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Engineer | CSE Graduate × MBA-HR | Java • Python • Spring Boot</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="linkedin.com/in/priya-dharshini-r-37aa95267" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:priyadharshinii05102002@gmail.com">
