@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Priyadharshini R 👋</h1>
-
 <h3 align="center">Full Stack Engineer | CSE Graduate × MBA-HR | Java • Python • Spring Boot</h3>
-
 <p align="center">
-  <a href="linkedin.com/in/priya-dharshini-r-37aa95267" target="_blank">
+  <a href="https://www.linkedin.com/in/priya-dharshini-r-37aa95267/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:priyadharshinii05102002@gmail.com">
@@ -11,7 +9,6 @@
   </a>
   <img src="https://img.shields.io/badge/Location-Chennai,%20India-2E8B57?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+Intern+%40+CoApps;Java+%2B+Spring+Boot+%2B+MySQL+Developer;Computer+Vision+%7C+Driver+Drowsiness+Detection;Always+learning%2C+always+building." alt="Typing SVG" />
 </p>
